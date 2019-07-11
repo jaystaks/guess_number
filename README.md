@@ -1,2 +1,2 @@
 # guess_number
-Guess a number game by python
+Guess a number game in python
